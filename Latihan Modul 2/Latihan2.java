@@ -63,6 +63,7 @@ public class Latihan2 {
                     break;
                 default:
                     System.out.println("Menu tidak ada!");
+                    System.out.print("");
             }
         } while (pilihMenu != 5);
 
