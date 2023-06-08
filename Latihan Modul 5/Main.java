@@ -14,6 +14,15 @@ public class Main {
         biner.NewNode(25);
         biner.NewNode(37);
         biner.NewNode(16);
+        biner.NewNode(70);
+        biner.NewNode(11);
+
+//        biner.NewNode(1);
+//        biner.NewNode(2);
+//        biner.NewNode(3);
+//        biner.NewNode(4);
+//        biner.NewNode(5);
+
         System.out.print("\n");
         System.out.println("Data yg diinputkan : 20, 2, 25, 37, 16");
 
